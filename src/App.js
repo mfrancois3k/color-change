@@ -1,7 +1,9 @@
+import Color from "./components/Color";
+
 function App() {
   return (
     <div className="App">
-      Hello World
+      <Color />
     </div>
   );
 }

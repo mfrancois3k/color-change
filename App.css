@@ -1,0 +1,10 @@
+.Box {
+  width: 50%;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  background-color: aqua;
+  padding: 1rem;
+}
